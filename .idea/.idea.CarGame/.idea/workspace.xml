@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab635f31-e8cb-4726-9518-afd8b1bc5a38" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cars/Car.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/CarController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/PointData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/LevelCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/PrefKeys.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/ObjectPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cars/CarTrail.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/LevelController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/LevelEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/UIController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/Level.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cars/CarType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cars/CarState.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/CarMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CarSpeed.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Car/CarState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Car/CarTrail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/CarType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Car/CarType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Car/Car.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CarStuff/CarType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CarStuff/Car.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CarStuff/CarState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cars/CarType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cars/CarState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cars/Car.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/Level.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cars/CarTrail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/PrefKeys.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/LevelUpTextAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/UIController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/PointData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/ObjectSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/LevelState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/ObjectPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/LevelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/LevelCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/LevelEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/CarController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fPHMVwRjlJmUqE1qxPxESGdygf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab635f31-e8cb-4726-9518-afd8b1bc5a38" name="Default Changelist" comment="" />
+      <created>1596112761296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596112761296</updated>
+      <workItem from="1596112766244" duration="15093000" />
+      <workItem from="1596223664901" duration="22410000" />
+      <workItem from="1596364070919" duration="3826000" />
+      <workItem from="1596396067931" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state width="498" height="466" key="DebuggerActiveHint" timestamp="1596120297163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1596120297163" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1596319528029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596319528029" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1596319528029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596319528029" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1596319528029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596319528029" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1596319528029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596319528029" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1596319528029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596319528029" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1596319528029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596319528029" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1596319528029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596319528029" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1596319528029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596319528029" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1596319528029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596319528029" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1596319528029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596319528029" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1596319528029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596319528029" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1596319528029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596319528029" />
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom" timestamp="1596319528030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596319528030" />
+    <state width="1877" height="348" key="GridCell.Tab.3.center" timestamp="1596319528030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596319528030" />
+    <state width="1877" height="348" key="GridCell.Tab.3.left" timestamp="1596319528029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596319528029" />
+    <state width="1877" height="348" key="GridCell.Tab.3.right" timestamp="1596319528030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596319528030" />
+    <state x="849" y="244" key="RiderGenerateDialog" timestamp="1596128748254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="849" y="244" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596128748254" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1596132329954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596132329954" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1596396089942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596396089942" />
+  </component>
+</project>

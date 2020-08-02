@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 261be5e48f2f44d591819bcda2572925, type: 3}
+  m_Name: Level_1
+  m_EditorClassIdentifier: 
+  levelNumber: 1
+  startPoints:
+  - position: {x: 0, y: 1, z: -13.36}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: 17.4, y: 1, z: -13.87}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: -11.8, y: 1, z: -13.27}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: 25.48, y: 1, z: -10.1}
+    rotation: {x: 0, y: 0.7071068, z: -0, w: -0.7071068}
+  - position: {x: 25.76, y: 1, z: -0.85}
+    rotation: {x: 0, y: 0.7071068, z: -0, w: -0.7071068}
+  - position: {x: 23.58, y: 1, z: 13.97}
+    rotation: {x: 0, y: 1, z: 0, w: 0}
+  - position: {x: -1.96, y: 1, z: 14.1}
+    rotation: {x: 0, y: 1, z: 0, w: 0}
+  - position: {x: 25.79, y: 1, z: 8.22}
+    rotation: {x: 0, y: 0.7071068, z: -0, w: -0.7071068}
+  targetPoints:
+  - position: {x: -6.3, y: 1, z: 13.1}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: 5.56, y: 1, z: 13.1}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: 14.49, y: 1, z: 13.4}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: -25.18, y: 1, z: 5.1}
+    rotation: {x: 0, y: 0.7071068, z: -0, w: -0.7071068}
+  - position: {x: -25.41, y: 1, z: 13.53}
+    rotation: {x: 0, y: 0.7071068, z: -0, w: -0.7071068}
+  - position: {x: -25.25, y: 1, z: -3.1}
+    rotation: {x: 0, y: 0.7071068, z: -0, w: -0.7071068}
+  - position: {x: 25.38, y: 1, z: -2.21}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: -25.1, y: 1, z: -13.1}
+    rotation: {x: 0, y: 0.7071068, z: -0, w: -0.7071068}
+  obstacles:
+  - position: {x: -5.96, y: 1.5, z: -12.15}
+    rotation: {x: -0, y: -0.7089951, z: -0, w: 0.7052135}
+  - position: {x: 17.64, y: 1.5, z: -5.06}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: -23.8, y: 1.5, z: 8.4}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: -19.5, y: 1.5, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: -26.64, y: 1.5, z: -9.04}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: 11, y: 1.5, z: 12.4}
+    rotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+  - position: {x: 2.4, y: 1.5, z: 12.5}
+    rotation: {x: -0, y: -0.7122434, z: -0, w: 0.7019326}
+  - position: {x: 23.7, y: 1.5, z: 3.68}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: 17.75, y: 1.5, z: 3.64}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: 23.54, y: 1.5, z: -5.06}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: -20.95, y: 1.5, z: -9.06}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: -25.4, y: 1.5, z: -0}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: -17.9, y: 1.5, z: 8.4}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: -12.3, y: 1.5, z: 8.4}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - position: {x: 2.23, y: 1.5, z: -8}
+    rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  - position: {x: 2.3595445, y: 1.5, z: 2.299859}
+    rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
