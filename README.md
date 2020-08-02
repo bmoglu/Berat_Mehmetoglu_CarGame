@@ -6,6 +6,10 @@
 
 -Just having Unity Game Engine.
 
+### Version
+
+- Recommended version: Unity 2019.4.3f1
+
 ### Goal
 
 -To reach the exit without hitting the obstacle and the cars you drive.
